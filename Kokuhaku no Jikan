@@ -12,6 +12,14 @@
         "N/A": "/proxy/api/imgur/chapter/WMaBW96/"
       },
       "last_updated": "1628047103"
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "groups": {
+        "N/A": "/proxy/api/imgur/chapter/<4J3R1NU>/"
+      },
+      "last_updated": "1628047103"
     }
   }
 }
